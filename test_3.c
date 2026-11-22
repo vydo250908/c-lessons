@@ -1,4 +1,4 @@
 #include <stdio.h>
 void main(){
-    printf("trte %d and %d", 10, 6);
+    printf("trte %d and %d", 10, 9);
 }
